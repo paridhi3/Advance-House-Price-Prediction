@@ -1,9 +1,9 @@
-# Advance House Price Prediction
+# **Advance House Price Prediction**
 
 ###   **ADVANCE HOUSE PRICE PREDICTION - DATA ANALYSIS**
 ###   **ADVANCE HOUSE PRICE PREDICTION - FEATURE SELECTION**
 
-# **DATA ANALYSIS - ADVANCE HOUSE PRICE PREDICTION**
+# DATA ANALYSIS - ADVANCE HOUSE PRICE PREDICTION
  * Missing Values
    *   Categorical missing values
    *   Numerical missing valeues
