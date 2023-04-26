@@ -6,8 +6,8 @@
 
 # **DATA ANALYSIS - ADVANCE HOUSE PRICE PREDICTION**
  * Missing Values
-  *   Categorical missing values
-  *   Numerical missing valeues
+   *   Categorical missing values
+   *   Numerical missing valeues
  * Relationships between independent and dependent feature(SalePrice)
  * All The Numerical Variables
   *   Temporal variables (Eg. )
