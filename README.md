@@ -10,7 +10,7 @@
    *   Numerical missing valeues
  * Relationships between independent and dependent feature(SalePrice)
  * All The Numerical Variables
-    *   Temporal variables (Eg. )
+    *   Temporal variables (Eg. Datetime variables)
     *   Discrete features
     *   Continuous features
     *   Distribution of the Numerical Variables
