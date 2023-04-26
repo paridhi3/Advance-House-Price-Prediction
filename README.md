@@ -10,13 +10,13 @@
    *   Numerical missing valeues
  * Relationships between independent and dependent feature(SalePrice)
  * All The Numerical Variables
-  *   Temporal variables (Eg. )
-  *   Discrete features
-  *   Continuous features
-  *   Distribution of the Numerical Variables
+    *   Temporal variables (Eg. )
+    *   Discrete features
+    *   Continuous features
+    *   Distribution of the Numerical Variables
  * All Categorical Variables
-  *   Cardinality
-  *   Rare categorical variables
+    *   Cardinality
+    *   Rare categorical variables
  * Outliers
  * Feature Scaling
  
