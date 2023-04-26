@@ -1,7 +1,7 @@
 # Advance House Price Prediction
 
 ### Dataset: 
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
+* https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ### References:
 * https://youtube.com/playlist?list=PLZoTAELRMXVPQyArDHyQVjQxjj_YmEuO9
